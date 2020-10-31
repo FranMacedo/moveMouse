@@ -1,6 +1,6 @@
 # moveMouse
 
-Go app to randomly move your computer mouse every 5 minutes.
+Go app to randomly move your computer mouse every other minute.
 
 
 
