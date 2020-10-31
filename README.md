@@ -1,4 +1,14 @@
+# moveMouse
+
+Go app to randomly move your computer mouse every 5 minutes.
+
+
+
 ### Run program
+
+just run `moveMouse.exe`
+
+### Run program (cmd)
 
 ```go run main.go```
 
