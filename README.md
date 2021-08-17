@@ -1,4 +1,4 @@
-# moveMouse
+# :mouse: moveMouse
 
 Go app to randomly move your computer mouse every other minute.
 
